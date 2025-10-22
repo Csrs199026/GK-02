@@ -1,4 +1,3 @@
-
 import React from 'react';
 import WhatsAppButton from './WhatsAppButton';
 
@@ -12,6 +11,14 @@ const CTASection: React.FC = () => {
         </p>
         <div className="flex justify-center">
             <WhatsAppButton text="SIM, QUERO EMAGRECER AGORA!" variant="secondary" className="text-xl"/>
+        </div>
+        <div className="mt-8 text-emerald-100">
+          <p className="text-2xl font-bold">A partir de R$197,00</p>
+          <div className="flex justify-center items-center space-x-2 mt-2">
+            <i className="fas fa-truck"></i>
+            <p className="text-lg font-semibold">Frete Grátis para todo o Brasil</p>
+          </div>
+          <p className="text-md mt-1">Adquira pelo WhatsApp clicando no botão acima!</p>
         </div>
       </div>
     </section>

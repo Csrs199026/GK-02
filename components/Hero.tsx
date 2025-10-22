@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import WhatsAppButton from './WhatsAppButton';
 
@@ -19,9 +18,10 @@ const Hero: React.FC = () => {
   return (
     <section className="bg-gray-50 pt-32 pb-20 text-center">
       <div className="container mx-auto px-4">
-        <h1 className="text-3xl md:text-5xl font-extrabold text-gray-900 mb-6 leading-tight">
+        <h1 className="text-3xl md:text-5xl font-extrabold text-gray-900 mb-4 leading-tight">
           Elimine Peso sem dieta e exercícios, com o Grão secreto + mais potente que qualquer Cápsula... Porém Natural e seguro!
         </h1>
+        <p className="text-red-600 font-bold text-xl mb-6 uppercase">suplemento natural poderoso</p>
 
         {/* Seção do Vídeo */}
         <div className="relative max-w-4xl mx-auto my-8 shadow-lg" style={{ paddingBottom: '56.25%' /* Proporção 16:9 */, height: 0 }}>
