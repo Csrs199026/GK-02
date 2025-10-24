@@ -1,7 +1,7 @@
 
 import type { Testimonial, Benefit } from './types';
 
-export const GROUP_LINK = 'http://bit.ly/48ZAqoT';
+export const GROUP_LINK = 'https://bit.ly/48ZAqoT';
 
 export const testimonialsData: Testimonial[] = [
   {
