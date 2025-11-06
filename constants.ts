@@ -1,7 +1,7 @@
 
 import type { Testimonial, Benefit } from './types';
 
-export const GROUP_LINK = 'https://bit.ly/48ZAqoT';
+export const GROUP_LINK = 'whatsapp://send?phone=5511960344748&&text=Ol%C3%A1,%20Quero%20Emagrecer%20Urgente%20!';
 
 export const testimonialsData: Testimonial[] = [
   {
