@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
           Perca peso de forma natural e surpreendentemente rápida, sem precisar de dietas malucas ou rotinas de exercícios exaustivas. O método que vai mudar sua vida está aqui.
         </p>
         <div className="flex justify-center">
-            <WhatsAppButton text="QUERO ENTRAR NO GRUPO VIP!" className="text-xl"/>
+            <WhatsAppButton text="QUERO EMAGRECER URGENTE!" className="text-xl"/>
         </div>
       </div>
     </section>
